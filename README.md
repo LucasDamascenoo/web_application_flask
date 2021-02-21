@@ -1,6 +1,6 @@
 # web_application_flask
 
-Trabalho de faculdade, onde desenvolvendo nossa primeira aplicação com Flask.
+Trabalho de faculdade, onde desenvolmemos nossa primeira aplicação com Flask.
 
 ## Flask
 
